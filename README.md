@@ -16,3 +16,6 @@ Benda: Nozzle
 
 ## Belakang Atas
 ![P_20210921_135704](https://user-images.githubusercontent.com/73290753/134126016-3b8f6a6c-1452-4753-ad8e-8b808ecb9092.jpg)
+
+## Hasil 
+![image](https://user-images.githubusercontent.com/73290753/136116230-04564d3b-8385-46d4-b820-b2e84406536a.png)

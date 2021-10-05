@@ -138,7 +138,9 @@ function main() {
         ...object_rightnozzle.right_part3b_a, ...object_rightnozzle.right_part_color_3b,
         ...object_rightnozzle.right_part3b_j, ...object_rightnozzle.right_part_color_3b,
         ...object_rightnozzle.right_part3b_i, ...object_rightnozzle.right_part_color_3b,
-
+        
+        
+        // ...Lengkungan Pada ujung Nozzle gambar kanan tidak bisa ter-render
         // ...object_rightnozzle.right_part4_a, ...object_rightnozzle.right_part_color_4,
         // ...object_rightnozzle.right_part4_b, ...object_rightnozzle.right_part_color_4,
         // ...object_rightnozzle.right_part4_c, ...object_rightnozzle.right_part_color_4,
@@ -322,6 +324,8 @@ function main() {
     var change = 0;
     var uChange = gl.getUniformLocation(shaderProgram, "uChange");
 
+    
+    //animasi masih bergerak secara horizontal dan gambar kiri yang bergerak
     function moveVertices() {
 
         if (vertices[250] < -1.0 || vertices[240] > 1.0) {

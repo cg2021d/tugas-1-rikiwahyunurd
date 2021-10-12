@@ -1,7 +1,13 @@
 # Tugas Individu ThreeJS
 ## Geometri 
-### Berikut adalah beberapa objek dengan material berbeda dan dianimasikan
+### Berikut adalah beberapa objek dengan material dan pencahayaan berbeda dan dianimasikan
+
+
+https://user-images.githubusercontent.com/73290753/136892163-4acab439-86bb-4d20-bbf9-e0ea6d7650b8.mp4
+
+
 ## Lighting
+### Pencahayaan untuk lighting 1 objek
 ### PointLight
 ![2021-10-12 09-21-14](https://user-images.githubusercontent.com/73290753/136881340-231279f0-eebc-4c95-bb43-b79c20708ea4.gif)
 ### AmbientLight
